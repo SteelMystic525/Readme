@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sudhanshu H
 - 👀 I’m interested in Coding!
 - 🌱 I’m currently learning C
-- 📫 Linkedin- linkedin.com/in/sudhanshu-h-617321288/
+- 📫 Linkedin- https://www.linkedin.com/in/sudhanshu-h-617321288/
 
 
 <!---
